@@ -22,13 +22,12 @@
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eljamaaouy-ayman&show_icons=true&theme=dracula)
 
 ### 🚀 Featured Projects
-- 🟢 [Task Manager App](https://github.com/yourusername/task-manager)
-- 🟠 [Minitalk](https://github.com/Eljamaaouy-ayman/minitalk)
+- 🟠 [Minitalk](https://github.com/Eljamaaouy-ayman/mini_talk)
 - 🔵[Minishell](https://github.com/Eljamaaouy-ayman/minishell)
 - 🟡[libft](https://github.com/Eljamaaouy-ayman/libft)
 - 🟣[solong](https://github.com/Eljamaaouy-ayman/so_long)
 - 🟤[ft_printf](https://github.com/Eljamaaouy-ayman/ft_printf)
-- ⚫[get nect line](https://github.com/Eljamaaouy-ayman/getNextLine)
+- ⚫[get next line](https://github.com/Eljamaaouy-ayman/getNexLine)
 - ⚪[push swap](https://github.com/Eljamaaouy-ayman/push_swap)
 
 <!--
